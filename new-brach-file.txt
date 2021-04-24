@@ -1,1 +1,1 @@
-este es un archivo de un nuevo branch
+este es un archivo mostrado en master y new brach
